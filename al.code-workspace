@@ -5,6 +5,9 @@
     },
     {
       "path": "algoapp"
+    },
+    {
+      "path": "algoapp.Test"
     }
   ],
   "settings": {
