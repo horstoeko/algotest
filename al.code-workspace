@@ -7,5 +7,7 @@
       "path": "algoapp"
     }
   ],
-  "settings": {}
+  "settings": {
+    "powershell.cwd": "c:\\Temp\\9\\algotest\\.AL-Go"
+  }
 }
